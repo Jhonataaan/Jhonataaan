@@ -1,4 +1,4 @@
-![header] https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Turtle%20Rabbit&section=header&reversal=false&textBg=false&animation=blink
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Turtle%20Rabbit&section=header&reversal=false&textBg=false&animation=blink)
 <p align="left">Hola, soy Jhonatan<br>Estudiante de Ingeniería de Sistemas | Dev en formación<br>Siempre creando algo nuevo</p>
 
 ###
