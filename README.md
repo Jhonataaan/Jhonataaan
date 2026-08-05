@@ -92,7 +92,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonataaan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhonataaan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonataaan&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" />
 </div>
 
