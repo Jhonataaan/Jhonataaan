@@ -11,6 +11,14 @@
 ###
 
 <div align="center">
+  <a href="https://portafolio-jhonatant.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://cdn.simpleicons.org/vercel/6366F1"
+      width="52"
+      height="40"
+      alt="Portafolio"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/jhonatan-tubac" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
